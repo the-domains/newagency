@@ -1,0 +1,14 @@
+layout_spectrum: 0.7785055397544056
+typography_spectrum: 0.41688438248820603
+color:
+  brandStrength: 0.3823860848788172
+  lightness: 0.5208253178279847
+  saturation: 0.3633737377822399
+  rhythmicContrast: 0.7549269124865532
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: Newagency
